@@ -1,1 +1,5 @@
-# i-kiran.github.io
+#PhD Student in CSE
+
+###Education
+CSE
+Hola!
