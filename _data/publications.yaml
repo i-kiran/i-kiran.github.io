@@ -1,0 +1,39 @@
+papers:
+
+  - title: "Towards Efficient Adaptation of LLMs for Robust and Fair Recommendations"
+    authors: "<b>Kirandeep Kaur<b>, Tanya Roosta, Aman Chadha, Chirag Shah"
+    #venue: "JOTS'23: Journal of Online Trust and Safety. 2023."
+    #paper_pdf: "/assets/publications/2023_embedding_societal_values/paper.pdf"
+    #selected: y
+
+  - title: "Evaluating Discriminative Effect of Computational Interpretations of GDPRs Data Minimization Principle"
+    authors: "<b>Kirandeep Kaur<sup>‡</sup></b>, </b>Athina Kyriakou<sup>‡</sup></b>, Franziska Roesner"
+    #venue: "NeurIPS'23: Advances in Neural Information Processing Systems (Spotlight). 2023."
+    #paper_pdf: "/assets/publications/2023_peer_review/paper.pdf"
+    #code: "https://github.com/msaveski/counterfactual-peer-review"
+    #selected: y
+
+  - title: "Investigating the Importance of Data Minimization under the Federated Learning Paradigm"
+    authors: "<b>Kirandeep Kaur</b>, Alessandro Fabris, Asia Biega"
+    #venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
+    paper_pdf: "https://drive.google.com/file/d/1Tiur2LkAi36um1zfvB1-xUKKVnZLw6us/view?usp=sharing"
+    #selected: y
+
+  - title: "Towards Fairness in Provably Communication Efficient Federated Recommendation Systems"
+    authors: "<b>Kirandeep Kaur</b>, Sujit Gujar, Shweta Jain"
+    #venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
+    paper_pdf: "https://drive.google.com/file/d/1v7eVZlDVXz06xZ_q7w1XMNC0d7639LR0/view?usp=sharing"
+    #code: "https://github.com/msaveski/twitter_perspective_taking"
+    #data: "https://github.com/msaveski/twitter_perspective_taking"
+    #selected: y
+
+  - title: "EqBal-RS: Mitigating Popularity Bias in Recommendation Systems"
+    authors: "Shivam Gupta, <b>Kirandeep Kaur</b>, Shweta Jain"
+    venue: "Journal of Intelligent Information Systems. 2023."
+    paper_pdf: "https://drive.google.com/file/d/1Ggr-l2jjEFgGmHRdnmIk8-KnnaPEa_Xa/view"
+    #code: "https://github.com/msaveski/toxic_conversation_structure"
+    #data: "https://doi.org/10.7910/DVN/TRWPVB"
+    #video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
+    #selected: y
+
+  

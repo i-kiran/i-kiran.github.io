@@ -1,0 +1,44 @@
+projects:
+  - title: "Battle of Neighborhoods"
+    subtitle: "Clustering based Recommender System for House Recommendations."
+    #thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
+    url: "https://github.com/i-kiran/Battle-of-neighborhoods"
+    #selected: y
+
+  - title: "Lion in Mazeworld"
+    subtitle: "A Game Model Environment for navigation."
+    #thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
+    url: "https://github.com/i-kiran/LION_MAZEWORLD_AI"
+    #selected: y
+
+  - title: "The 8 Queen Puzzle"
+    subtitle: "Implementation of 8 Queen Chess Problem using Genetic Algorithm."
+    #thumbnail: "https://github.com/i-kiran/The-8-Queen-Puzzle"
+    url: "https://github.com/i-kiran/The-8-Queen-Puzzle"
+    #selected: y
+
+  - title: "Wordoku AI Agent"
+    subtitle: "AI Agent to solve Wordoku puzzle using Constraint Satisfaction Problem."
+    #thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
+    url: "https://github.com/i-kiran/Wodoku_AI_Agent"
+    #selected: n
+
+  - title: "XMen Game"
+    subtitle: "Markov Decision PRocess based Implementation."
+    #thumbnail: "https://github.com/i-kiran/MarkovDeciaionProcess_MDP_XMEN_Game"
+    url: "https://github.com/i-kiran/MarkovDeciaionProcess_MDP_XMEN_Game"
+    #selected: n
+
+  - title: "Intelligent Fake News Reasoner"
+    subtitle: "A Reasoner based on Description Logic and Fuzzy Logic."
+    #humbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
+    url: "https://github.com/i-kiran/IntelligentFakeNewsReasoner_DescriptionLogics"
+    #selected: n
+
+  - title: "Text Recognition"
+    subtitle: "A Neural Network-Based Model."
+    #thumbnail: "https://github.com/i-kiran/Neural-Netwoks-Text-Recognition-"
+    url: "https://github.com/i-kiran/Neural-Netwoks-Text-Recognition-"
+    #selected: n
+
+  
