@@ -1,7 +1,7 @@
 papers:
 
   - title: "Towards Efficient Adaptation of LLMs for Robust and Fair Recommendations"
-    authors: "<b>Kirandeep Kaur<b>, Tanya Roosta, Aman Chadha, Chirag Shah"
+    authors: "<b>Kirandeep Kaur</b>, Tanya Roosta, Aman Chadha, Chirag Shah"
     #venue: "JOTS'23: Journal of Online Trust and Safety. 2023."
     #paper_pdf: "/assets/publications/2023_embedding_societal_values/paper.pdf"
     #selected: y
@@ -36,4 +36,12 @@ papers:
     #video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
     selected: y
 
+  - title: "Improving the Resolution of Protein Structure Imaging"
+    authors: "Mustafa Arikan, Dan Burrows, <b>Kirandeep Kaur</b>, Osian Shelley, Nayef Shkeir, Jesse Spielman, Lorenzo Toniazzi, Xiaochen Yang, Naya Yerolemou, Kit Windows-Yule, Leonard Nicusan"
+    venue: "Data Study Group Report, Alan Turing Institute,UK."
+    paper_pdf: "https://drive.google.com/file/d/1MRWJkmQPI7_eJ0vSo_qdFV7nNoOqMCcf/view?usp=sharing"
+    #code: "https://github.com/msaveski/toxic_conversation_structure"
+    #data: "https://doi.org/10.7910/DVN/TRWPVB"
+    #video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
+    selected: y
   
