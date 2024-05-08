@@ -1,11 +1,11 @@
 experiences:
-  - place: "University of Washington"
+  - place: "University of Washington."
     time: "2023 - present"
     title: "PhD in Computer Science"
-    subtitle: "Infoseeking Lab"
+    subtitle: "Paul G Allen School of CSE"
     category: "school"
 
-  - place: "Max Planck Institute for Security and Privacy"
+  - place: "Max Planck Institute for Security & Privacy"
     time: "Jan-Aug 2023"
     title: "Research Intern/ Visiting Scholar"
     subtitle: "Responsible AI Group"
@@ -17,7 +17,7 @@ experiences:
     subtitle: "Game Theory Machine Learning Lab"
     category: "work"
 
-  - place: "The Cornell, Maryland, Max Planck Pre-Doc School"
+  - place: "The Cornell, Maryland, Max Planck School"
     time: "Aug 2022"
     title: "Pre-doc Fellow"
     subtitle: "Pre-Doctoral School"
