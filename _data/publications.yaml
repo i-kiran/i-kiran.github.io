@@ -1,13 +1,13 @@
 papers:
 
   - title: "Towards Efficient Adaptation of LLMs for Robust and Fair Recommendations"
-    authors: "<b>Kirandeep Kaur</b>, Tanya Roosta, Aman Chadha, Chirag Shah"
+    authors: "<b>Kirandeep Kaur</b>, Chirag Shah"
     #venue: "JOTS'23: Journal of Online Trust and Safety. 2023."
-    #paper_pdf: "/assets/publications/2023_embedding_societal_values/paper.pdf"
+    paper_pdf: "https://arxiv.org/pdf/2405.00824"
     #selected: y
 
-  - title: "Evaluating Discriminative Effect of Computational Interpretations of GDPRs Data Minimization Principle"
-    authors: "<b>Kirandeep Kaur<sup>‡</sup></b>, </b>Athina Kyriakou<sup>‡</sup></b>, Franziska Roesner"
+  - title: "Evaluating Demographic Disparity in Computational Interpretations of GDPRs Data Minimization Principle in Two-Sided Online Platforms"
+    authors: "<b>Kirandeep Kaur</b>, Athina Kyriakou, Andrew Zhang, Anthony Wise, Franziska Roesner, Chirag Shah"
     #venue: "NeurIPS'23: Advances in Neural Information Processing Systems (Spotlight). 2023."
     #paper_pdf: "/assets/publications/2023_peer_review/paper.pdf"
     #code: "https://github.com/msaveski/counterfactual-peer-review"
