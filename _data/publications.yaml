@@ -22,7 +22,7 @@ papers:
   - title: "Towards Fairness in Provably Communication Efficient Federated Recommendation Systems"
     authors: "<b>Kirandeep Kaur</b>, Sujit Gujar, Shweta Jain"
     #venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
-    paper_pdf: "https://drive.google.com/file/d/1v7eVZlDVXz06xZ_q7w1XMNC0d7639LR0/view?usp=sharing"
+    paper_pdf: "https://arxiv.org/pdf/2405.15788"
     #code: "https://github.com/msaveski/twitter_perspective_taking"
     #data: "https://github.com/msaveski/twitter_perspective_taking"
     #selected: y
