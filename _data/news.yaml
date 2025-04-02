@@ -1,27 +1,43 @@
-news:
-  - title: "Deliver a lecture on Privacy for <a href=\"https://courses.cs.washington.edu/courses/cse581/25sp/\">CSE 581 Computer Ethics</a> course."
-    date: "04/2024"
-    
-  - title: "Will serve as  <a href=\"https://chiir2026.github.io/organizers.html\">Student Volunteer Chair</a> for CHIIR'26s."
-    date: "04/2024"
-    
-  - title: "TA'ing for <a href=\"https://courses.cs.washington.edu/courses/cse581/25sp/\">CSE 581 Computer Ethics</a> course."
-    date: "04/2024"
-    
-  - title: "Got awarded for <a href=\"https://www.linkedin.com/posts/i-kiran_fortunate-to-be-in-a-room-full-of-inspirations-activity-7278667242391617537-J41r?utm_source=share&utm_medium=member_desktop\">exceptional volunteer services</a> by IEEE."
-    date: "12/2024"
-    
-  - title: "Our work (<a href=\"https://arxiv.org/pdf/2405.00824\">Efficient and Responsible Adaptation of LLMs for Robust Top-k Recommendations</a>) gets accepted at ROEGen workshop at ACM RecSys 24."
-    date: "09/2024"
-    
-  - title: "Awarded RecSys'24 Travel Grant and got selected for Student Volunteer position."
-    date: "08/2024"
-    
-  - title: "I will Serve as an <a href=\"https://attend.ieee.org/newera/volunteer/committee/\">Event Secretary</a> at <a href=\"https://attend.ieee.org/newera/\">IEEE New Era World AI Leaders Summit</a>."
-    date: "05/2024"
-    
-  - title: "With a mission to boost collaborations and facilitate discussions, I started as a <a href=\"https://www.raise.uw.edu/people/\">Student Organizer</a> at <a href=\"https://www.raise.uw.edu/\">RAISE</a>."
-    date: "01/2024"
-    
-  - title: "Completed my visiting position at MPI-SP with Asia Biega. I'll join University of Washington for my PhD in Computer Science and Information Science."
-    date: "09/2023"
+<style>
+  .news-container {
+    max-height: 300px; /* Adjust as needed */
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f9f9f9;
+  }
+  .news-item {
+    margin-bottom: 10px;
+  }
+</style>
+
+<div class="news-container">
+  <div class="news-item">
+    <strong>04/2024:</strong> Will deliver a lecture on Privacy in  
+    <a href="https://courses.cs.washington.edu/courses/cse581/25sp/">CSE 581 Computer Ethics</a> course.
+  </div>
+  
+  <div class="news-item">
+    <strong>04/2024:</strong> Will serve as a 
+    <a href="https://chiir2026.github.io/organizers.html">Student Volunteer Chair</a> for CHIIR'26.
+  </div>
+  
+  <div class="news-item">
+    <strong>04/2024:</strong> TA'ing for 
+    <a href="https://courses.cs.washington.edu/courses/cse581/25sp/">CSE 581 Computer Ethics</a> course.
+  </div>
+  
+  <div class="news-item">
+    <strong>12/2024:</strong> Got awarded for 
+    <a href="https://www.linkedin.com/posts/i-kiran_fortunate-to-be-in-a-room-full-of-inspirations-activity-7278667242391617537-J41r?utm_source=share&utm_medium=member_desktop">
+      exceptional volunteer services</a> by IEEE.
+  </div>
+  
+  <div class="news-item">
+    <strong>09/2024:</strong> Our work 
+    (<a href="https://arxiv.org/pdf/2405.00824">Efficient and Responsible Adaptation of LLMs for Robust Top-k Recommendations</a>) 
+    gets accepted at ROEGen workshop at ACM RecSys 24.
+  </div>
+  
+  <!-- Add more news items here -->
+</div>
