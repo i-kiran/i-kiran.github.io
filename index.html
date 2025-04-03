@@ -24,7 +24,7 @@ title: Home
 <!-- ========== NEWS ========== -->
 <style>
   .news-container {
-    max-height: 30px;  /* Limits the height */
+    max-height: 200px;  /* Adjust the height to make it scrollable */
     overflow-y: auto;   /* Enables scrolling */
     border: 1px solid #ddd;
     padding: 10px;
@@ -35,13 +35,14 @@ title: Home
 <div class="docs-section" id="news">
   <h4>News</h4>
 
-  <ul>
+  <!-- Wrap the news items in .news-container -->
+  <div class="news-container">
     {% for nw in site.data.news.news %}
-    <div class="row">{{ nw.date }}:  {{ nw.title }}</div>
+      <div class="row">{{ nw.date }}: {{ nw.title }}</div>
     {% endfor %}
-  </ul>
-
+  </div>
 </div>
+
 
 
 <!-- ========== PUBLICATIONS ========== -->
