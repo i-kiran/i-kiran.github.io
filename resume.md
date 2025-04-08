@@ -13,7 +13,7 @@ permalink: /resume/
     {% for exp in site.data.experience.experiences %}
     <li>
       {% if exp.category == "work" %}
-      <div class="direction-l">
+      <div class="direction- r">
       {% else %}
       <div class="direction-l">
       {% endif %}
