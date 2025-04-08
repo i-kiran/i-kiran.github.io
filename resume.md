@@ -7,15 +7,16 @@ permalink: /resume/
 <div class="docs-section" id="resume">
   <h4>Vitæ</h4>
 
-  <p>Full Resume in <a href="https://drive.google.com/file/d/1NPYycltECQjrW1VjYWRoKO_6RCg_AnDk/view?usp=drive_link" target="_blank">PDF</a>.</p>
+  <p>Full Resume in <a href={{ "https://drive.google.com/file/d/1NPYycltECQjrW1VjYWRoKO_6RCg_AnDk/view?usp=drive_link" | prepend: site.baseurl }} target="_blank">PDF</a>.</p>
 
+  <!-- The Timeline -->
   <ul class="timeline">
     {% for exp in site.data.experience.experiences %}
     <li>
       {% if exp.category == "work" %}
-      <div class="direction- r">
-      {% else %}
       <div class="direction-l">
+      {% else %}
+      <div class="direction-r">
       {% endif %}
         <div class="flag-wrapper">
           <span class="flag">{{ exp.place }}</span>
