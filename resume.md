@@ -3,6 +3,7 @@ layout: default
 title: Vitæ
 permalink: /resume/
 ---
+<!-- ========== RESUME ========== -->
 
 <div class="docs-section" id="resume">
   <h4>Vitæ</h4>
