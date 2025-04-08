@@ -15,7 +15,7 @@ permalink: /resume/
       {% if exp.category == "work" %}
       <div class="direction-l">
       {% else %}
-      <div class="direction-r">
+      <div class="direction-l">
       {% endif %}
         <div class="flag-wrapper">
           <span class="flag">{{ exp.place }}</span>
