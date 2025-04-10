@@ -1,8 +1,8 @@
 papers:
 
   - title: "Responsible Adaptation of LLMs for Robust Top-k Recommendations"
-    authors: "<b>Kirandeep Kaur</b>, Chirag Shah"
-    #venue: "JOTS'23: Journal of Online Trust and Safety. 2023."
+    authors: "<b>Kirandeep Kaur</b>,Vinayak Gupta, Manya Chadha Chirag Shah"
+    venue: "ROGEN@ RecSys'24. Full version under submission at ACM TORS"
     paper_pdf: "https://arxiv.org/pdf/2405.00824"
     #selected: y
 
