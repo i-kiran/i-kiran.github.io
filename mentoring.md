@@ -8,7 +8,7 @@ permalink: /mentoring/
   <h4>Mentoring</h4>
 
   <p>
-  I am always eager to collaborate with <strong>curious and self-motivated students</strong> who are excited about exploring open-ended questions in <strong>AI, Information Retrieval, and Responsible Machine Learning</strong>. I see mentorship as a space for shared growth — one that blends critical thinking, creativity, and care — and I actively welcome students who are eager to push boundaries, challenge assumptions, and learn by building.
+  I am always eager to collaborate with curious and self-motivated students who are excited about pushing the boundaries of personalization and proactivity.
   </p>
 
   <p>
@@ -16,9 +16,10 @@ permalink: /mentoring/
   </p>
 
   <ul>
-    <li><strong>Aditya Gupta</strong> (Issaquah High School) – Working on proactive agents and quantum computing.</li>
+    
     <li><strong>Manya Chadha</strong> (University of Washington) – Worked on responsible adaptation of LLMs; now a <em>Data Scientist at Kaizen Analytics</em>.</li>
     <li><strong>Rachel Chalissery</strong> (University of Washington) – Working on personalized agents. </li>
+    <li><strong>Aditya Gupta</strong> (Issaquah High School) – Working on proactive agents and quantum computing.</li>
   </ul>
 
   <p>
@@ -27,6 +28,6 @@ permalink: /mentoring/
   </p>
 
   <p>
-  If you are interested in collaborating, feel free to reach out — I’m always open to new ideas and conversations that bridge curiosity with purpose.
+  If you are interested in collaborating, feel free to reach out. I’m always open to new ideas and conversations that bridge curiosity with purpose.
   </p>
 </div>
