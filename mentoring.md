@@ -24,7 +24,7 @@ permalink: /mentoring/
 
   <p>
   Beyond one-on-one mentorship, I serve as a <strong>Pre-Doctoral Lecturer</strong> for 
-  <a href="https://ischool.uw.edu/courses/info/376" target="_blank">INFO 376: Intro to Search & Recommender Systems</a> at the University of Washington. 
+  <a href="https://ischool.uw.edu/people/faculty/profile/kaur13" target="_blank">INFO 376: Intro to Search & Recommender Systems</a> at the University of Washington. 
   </p>
 
   <p>
