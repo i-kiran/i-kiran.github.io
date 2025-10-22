@@ -23,8 +23,13 @@ permalink: /mentoring/
   </ul>
 
   <p>
-  Beyond one-on-one research mentorship, I serve as a <strong>Pre-Doctoral Lecturer</strong> for 
-  <a href="https://ischool.uw.edu/people/faculty/profile/kaur13" target="_blank">INFO 376: Intro to Search & Recommender Systems</a> at the University of Washington. I also support students who are interested in applying to grad school but have questions about where to start through <a href="https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/pams/"target="_blank">PAMS (Pre-Application Mentorship Service)</a>. 
+    Beyond one-on-one research mentorship, I serve as a <strong>Predoctoral Lecturer</strong> for 
+    <a href="https://ischool.uw.edu/people/faculty/profile/kaur13" target="_blank" rel="noopener noreferrer">
+      INFO 376: Introduction to Search & Recommender Systems
+    </a> at the University of Washington. I also support students interested in graduate school through 
+    <a href="https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/pams/" target="_blank" rel="noopener noreferrer">
+      PAMS (Pre-Application Mentorship Service)
+    </a>.
   </p>
 
   <p>
