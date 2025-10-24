@@ -14,20 +14,6 @@ papers:
     #code: "https://github.com/msaveski/counterfactual-peer-review"
     selected: y
 
-  - #title: "Investigating the Importance of Data Minimization under the Federated Learning Paradigm"
-    #authors: "<b>Kirandeep Kaur</b>, Alessandro Fabris, Asia Biega"
-    #venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
-    #paper_pdf: "https://drive.google.com/file/d/1Tiur2LkAi36um1zfvB1-xUKKVnZLw6us/view?usp=sharing"
-    #selected: y
-
-  - #title: "Towards Fairness in Provably Communication Efficient Federated Recommendation Systems"
-    #authors: "<b>Kirandeep Kaur</b>, Sujit Gujar, Shweta Jain"
-    #venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
-    #paper_pdf: "https://arxiv.org/pdf/2405.15788"
-    #code: "https://github.com/msaveski/twitter_perspective_taking"
-    #data: "https://github.com/msaveski/twitter_perspective_taking"
-    #selected: y
-
   - title: "EqBal-RS: Mitigating Popularity Bias in Recommendation Systems"
     authors: "Shivam Gupta, <b>Kirandeep Kaur</b>, Shweta Jain"
     venue: "Journal of Intelligent Information Systems. 2023."
