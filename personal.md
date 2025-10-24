@@ -3,7 +3,8 @@ layout: page
 title: Personal
 permalink: /personal/
 ---
-*A space where I collect fragments of who I am beyond research — the poems I write, the food I love to cook, and the moments I capture in color.*
+
+A space where I collect fragments of who I am beyond research — the poems I write, the food I love to cook, and the moments I capture in color.
 
 <style>
 /* Page base styling */
@@ -62,14 +63,25 @@ blockquote {
   color: #444;
   margin: 1.2em 0;
 }
+
+
+.small-blockquote {
+  font-size: 0.75em;         /* smaller text */
+  line-height: 1.6;
+  color: #555;               /* softer gray tone */
+  background: #fafafa;       /* light background */
+  border-left: 3px solid #cce6e6;
+  padding: 0.8em 1em;
+  font-style: italic;
+  margin: 1.5em 0;
+  border-radius: 5px;
+}
 </style>
 
 # Poetry  
 
 Since childhood, I have carried a quiet inability to speak my emotions aloud.But somewhere in that silence, I discovered writing, not only as a way to understand my own feelings but as a way to step into others. People often call me an empath, and perhaps they are right.
-When I write, I do not just express what I feel; I inhabit what *someone else* might be feeling. Their grief, their hesitation, their quiet hopes, they live through my words before I even realize it.  
-
-Writing, for me, is both mirror and refuge. It is how I translate emotion into something I can finally see.  
+When I write, I do not just express what I feel; I inhabit what *someone else* might be feeling. Their grief, their hesitation, their quiet hopes, they live through my words before I even realize it. Writing, for me, is both mirror and refuge. It is how I translate emotion into something I can finally see.  
 
 Below, I share a few of my pieces, reflections that speak in the language I could not always find.  
 I am always open to thoughts, reflections, and feedback on how they make you feel.  
@@ -106,9 +118,9 @@ but let me breathe freely
 once more.
 </div>
 
->*This poem was born during one of the heaviest transitioning times of my life, sometime in my master’s, when everything around me felt like a test of endurance. I was trying to do everything I thought I was supposed to do, pushing myself to excel, to prove I belonged, to >become someone the world would recognize. Research was new to me then, and at first, it felt beautiful, the curiosity, the creation, the sense of building something meaningful.*  
-
->*But slowly, I began to feel like I was losing the part of myself that made me feel. The more I tried to become what others expected, the more mechanical I became. Every decision felt like it belonged to someone else.*  
-
->*The warmth I once found in small moments, empathy, connection, and even compassion, started to fade. People around me began to feel like machines, and so did I. That is when I wrote *Loosing Myself*, not to lament the loss, but to name it.*  
->*It was my way of saying: I see what is slipping away, and I want to find my way back to being human again.*
+<div class="small-blockquote">
+*This poem was born during one of the heaviest transitioning times of my life, sometime in my master’s, when everything around me felt like a test of endurance. I was trying to do everything I thought I was supposed to do, pushing myself to excel, to prove I belonged, to become someone the world would recognize. Research was new to me then, and at first, it felt beautiful, the curiosity, the creation, the sense of building something meaningful.*  
+*But slowly, I began to feel like I was losing the part of myself that made me feel. The more I tried to become what others expected, the more mechanical I became. Every decision felt like it belonged to someone else.*  
+*The warmth I once found in small moments, empathy, connection, and even compassion, started to fade. People around me began to feel like machines, and so did I. That is when I wrote *Loosing Myself*, not to lament the loss, but to name it.*  
+*It was my way of saying: I see what is slipping away, and I want to find my way back to being human again.*
+</div>
