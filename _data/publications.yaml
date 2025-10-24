@@ -1,28 +1,29 @@
 papers:
 
-  - title: "Responsible Adaptation of LLMs for Robust Top-k Recommendations"
+  - title: "Efficient and Responsible Adaptation of LLMs for Robust Top-k Recommendations"
     authors: "<b>Kirandeep Kaur</b>, Vinayak Gupta, Manya Chadha Chirag Shah"
-    venue: "ROGEN@ RecSys'24. Full version under submission at ACM TORS"
+    venue: "ACM TORS (Transactions on Recommender Systems)"
     paper_pdf: "https://arxiv.org/pdf/2501.04762"
-    #selected: y
+    video: "https://youtu.be/uqriMZHL-Ng"
+    selected: y
     
-    #title: "Evaluating Demographic Disparity in Computational Interpretations of GDPRs Data Minimization Principle in Two-Sided Online Platforms"
-    #authors: "<b>Kirandeep Kaur</b>, Athina Kyriakou, Andrew Zhang, Anthony Wise, Franziska Roesner, Chirag Shah"
-    #venue: "NeurIPS'23: Advances in Neural Information Processing Systems (Spotlight). 2023."
-    #paper_pdf: "/assets/publications/2023_peer_review/paper.pdf"
+  - title: "Beyond Static Evaluation: Rethinking the Assessment of Personalized Agent Adaptability in Information Retrieval"
+    authors: "<b>Kirandeep Kaur</b>,Preetam P.S.Dammu, Hideo Joho, Chirag Shah"
+    venue: "ACM SIGIR'AP: International ACM SIGIR Conference on Information Retrieval in the Asia Pacific."
+    paper_pdf: "https://www.arxiv.org/pdf/2510.03984"
     #code: "https://github.com/msaveski/counterfactual-peer-review"
+    selected: y
+
+  - #title: "Investigating the Importance of Data Minimization under the Federated Learning Paradigm"
+    #authors: "<b>Kirandeep Kaur</b>, Alessandro Fabris, Asia Biega"
+    #venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
+    #paper_pdf: "https://drive.google.com/file/d/1Tiur2LkAi36um1zfvB1-xUKKVnZLw6us/view?usp=sharing"
     #selected: y
 
-  - title: "Investigating the Importance of Data Minimization under the Federated Learning Paradigm"
-    authors: "<b>Kirandeep Kaur</b>, Alessandro Fabris, Asia Biega"
+  - #title: "Towards Fairness in Provably Communication Efficient Federated Recommendation Systems"
+    #authors: "<b>Kirandeep Kaur</b>, Sujit Gujar, Shweta Jain"
     #venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
-    paper_pdf: "https://drive.google.com/file/d/1Tiur2LkAi36um1zfvB1-xUKKVnZLw6us/view?usp=sharing"
-    #selected: y
-
-  - title: "Towards Fairness in Provably Communication Efficient Federated Recommendation Systems"
-    authors: "<b>Kirandeep Kaur</b>, Sujit Gujar, Shweta Jain"
-    #venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
-    paper_pdf: "https://arxiv.org/pdf/2405.15788"
+    #paper_pdf: "https://arxiv.org/pdf/2405.15788"
     #code: "https://github.com/msaveski/twitter_perspective_taking"
     #data: "https://github.com/msaveski/twitter_perspective_taking"
     #selected: y
