@@ -88,7 +88,7 @@ I am always open to thoughts, reflections, and feedback on how they make you fee
 
 ---
 
-## Loosing Myself  
+## Losing Myself  
 
 <div class="poem">
 This body doesn’t feel like mine anymore.  
@@ -108,7 +108,7 @@ I don’t empathize anymore.
 Content in their desires,  
 I accepted my fate.  
 Feeling so numb,  
-every heart seems fake.  
+Every heart seems fake.  
 
 You dragged me into your world,  
 and I confined my own.  
@@ -119,8 +119,5 @@ once more.
 </div>
 
 <div class="small-blockquote">
-*This poem was born during one of the heaviest transitioning times of my life, sometime in my master’s, when everything around me felt like a test of endurance. I was trying to do everything I thought I was supposed to do, pushing myself to excel, to prove I belonged, to become someone the world would recognize. Research was new to me then, and at first, it felt beautiful, the curiosity, the creation, the sense of building something meaningful.*  
-*But slowly, I began to feel like I was losing the part of myself that made me feel. The more I tried to become what others expected, the more mechanical I became. Every decision felt like it belonged to someone else.*  
-*The warmth I once found in small moments, empathy, connection, and even compassion, started to fade. People around me began to feel like machines, and so did I. That is when I wrote *Loosing Myself*, not to lament the loss, but to name it.*  
-*It was my way of saying: I see what is slipping away, and I want to find my way back to being human again.*
+*This poem was born during one of the heaviest transitioning times of my life, sometime in my master’s, when everything around me felt like a test of endurance. I was trying to do everything I thought I was supposed to do, pushing myself to excel, to prove I belonged, to become someone the world would recognize. Research was new to me then, and at first, it felt beautiful, the curiosity, the creation, the sense of building something meaningful. But slowly, I began to feel like I was losing the part of myself that made me feel. The more I tried to become what others expected, the more mechanical I became. Every decision felt like it belonged to someone else. The warmth I once found in small moments, empathy, connection, and even compassion, started to fade. People around me began to feel like machines, and so did I. That is when I wrote Losing Myself, not to lament the loss, but to name it. It was my way of saying: I see what is slipping away, and I want to find my way back to being human again.*
 </div>
