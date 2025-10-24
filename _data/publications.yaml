@@ -2,7 +2,11 @@ papers:
   - title: "Knowing Isn’t Understanding: Re-grounding Generative Proactivity with Epistemic and Behavioral Insight"
     authors: "<b>Kirandeep Kaur</b>, Chirag Shah"
     selected: n 
-
+    
+  - title: "The Oversight Game: Aligning Incentives in Human–AI Governance"
+    authors: "Arnab Maiti, Matthew Bryan, <b>Kirandeep Kaur</b>"
+    selected: n 
+    
   - title: "The PROPER Approach to Proactivity: Benchmarking and Advancing Knowledge Gap Navigation"
     authors: "<b>Kirandeep Kaur</b>,Vinayak Gupta, Aditya Gupta, Chirag Shah"
     selected: n 
