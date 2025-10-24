@@ -1,4 +1,28 @@
 papers:
+  - title: "Knowing Isn’t Understanding: Re-grounding Generative Proactivity with Epistemic and Behavioral Insight"
+    authors: "<b>Kirandeep Kaur</b>, Chirag Shah"
+    selected: n 
+
+  - title: "The PROPER Approach to Proactivity: Benchmarking and Advancing Knowledge Gap Navigation"
+    authors: "<b>Kirandeep Kaur</b>, Chirag Shah"
+    selected: n 
+
+  - title: "Analyzing Information Flow and Attack Surfaces in Complex Agentic Frameworks"
+    authors: "<b>Kirandeep Kaur</b>, Tanusree Sharma"
+    selected: n
+
+  - title: "Cold-Start Audiobook Recommendation via Cross-Domain Sub-Tower Fusion"
+    authors: "<b>Kirandeep Kaur</b>. Sujit Gujar, Shweta Jain"
+    selected: n 
+  - title: "QLens: Towards a Quantum Perspective of Language Transformers"
+    authors: "Aditya Gupta,<b>Kirandeep Kaur</b>,Aditya Gupta"
+    paper_pdf: "https://arxiv.org/pdf/2510.11963"
+    selected: n
+
+  - title: "Towards Fairness in Provably Communication-Efficient Federated Recommender Systems"
+    authors: "<b>Kirandeep Kaur</b>, Sujit Gujar, Shweta Jain"
+    paper_pdf: "https://www.semanticscholar.org/reader/c620ec158c7caa49460c0717aa9a3d05622d23bc"
+    selected: n
 
   - title: "Efficient and Responsible Adaptation of LLMs for Robust Top-k Recommendations"
     authors: "<b>Kirandeep Kaur</b>, Vinayak Gupta, Manya Chadha Chirag Shah"
