@@ -4,8 +4,7 @@ title: Personal
 permalink: /personal/
 ---
 
-A space where I collect fragments of who I am beyond research — the poems I write, the food I love to cook, and the moments I capture in color.
-
+A space where I collect fragments of who I am beyond research.
 <style>
 /* Page base styling */
 body {
