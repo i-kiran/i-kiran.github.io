@@ -80,8 +80,9 @@ blockquote {
 
 # Poetry  
 
-Since childhood, I have carried a quiet inability to speak my emotions aloud.But somewhere in that silence, I discovered writing, not only as a way to understand my own feelings but as a way to step into others. People often call me an empath, and perhaps they are right.
-When I write, I do not just express what I feel; I inhabit what *someone else* might be feeling. Their grief, their hesitation, their quiet hopes, they live through my words before I even realize it. Writing, for me, is both mirror and refuge. It is how I translate emotion into something I can finally see.  
+Since childhood, I have struggled with a quiet inability to express my emotions. But somewhere in that silence, I discovered writing, not only as a way to understand my own feelings but as a way to step into others. During my high school, I was also inspired by tons of poets and how beautifully they could share their state of mind through words.
+
+People often call me an empath, and perhaps they are right. When I write, I do not just express what I feel; I inhabit what *someone else* might be feeling. Their grief, their hesitation, their quiet hopes, they live through my words before I even realize it. Writing, for me, is both a mirror and a refuge. It is how I translate emotion into something I can finally see.  
 
 Below, I share a few of my pieces, reflections that speak in the language I could not always find.  
 I am always open to thoughts, reflections, and feedback on how they make you feel.  
