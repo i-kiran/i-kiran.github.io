@@ -2,14 +2,14 @@ papers:
 
   - title: "Efficient and Responsible Adaptation of LLMs for Robust Top-k Recommendations"
     authors: "<b>Kirandeep Kaur</b>, Vinayak Gupta, Manya Chadha Chirag Shah"
-    venue: "ACM TORS (Transactions on Recommender Systems)"
+    venue: "ACM TORS (Transactions on Recommender Systems). 2025"
     paper_pdf: "https://arxiv.org/pdf/2501.04762"
     video: "https://youtu.be/uqriMZHL-Ng"
     selected: y
     
   - title: "Beyond Static Evaluation: Rethinking the Assessment of Personalized Agent Adaptability in Information Retrieval"
     authors: "<b>Kirandeep Kaur</b>,Preetam P.S.Dammu, Hideo Joho, Chirag Shah"
-    venue: "ACM SIGIR'AP: International ACM SIGIR Conference on Information Retrieval in the Asia Pacific."
+    venue: "ACM SIGIR'AP 2025: International ACM SIGIR Conference on Information Retrieval in the Asia Pacific."
     paper_pdf: "https://www.arxiv.org/pdf/2510.03984"
     #code: "https://github.com/msaveski/counterfactual-peer-review"
     selected: y
@@ -25,7 +25,7 @@ papers:
 
   - title: "Improving the Resolution of Protein Structure Imaging"
     authors: "Mustafa Arikan, Dan Burrows, <b>Kirandeep Kaur</b>, Osian Shelley, Nayef Shkeir, Jesse Spielman, Lorenzo Toniazzi, Xiaochen Yang, Naya Yerolemou, Kit Windows-Yule, Leonard Nicusan"
-    venue: "Data Study Group Report, Alan Turing Institute,UK."
+    venue: "Data Study Group Report, Alan Turing Institute,UK. 2022"
     paper_pdf: "https://drive.google.com/file/d/1MRWJkmQPI7_eJ0vSo_qdFV7nNoOqMCcf/view?usp=sharing"
     #code: "https://github.com/msaveski/toxic_conversation_structure"
     #data: "https://doi.org/10.7910/DVN/TRWPVB"
