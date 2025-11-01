@@ -17,7 +17,8 @@ papers:
 
   - title: "Cold-Start Audiobook Recommendation via Cross-Domain Sub-Tower Fusion"
     authors: "<b>Kirandeep Kaur</b>, Amit Goyal"
-    selected: n 
+    venue: "Graph Workshop at AMLC'2025 (Amazon Machine Learning Conference)."
+    selected: y
     
   - title: "QLens: Towards a Quantum Perspective of Language Transformers"
     authors: "Aditya Gupta,<b>Kirandeep Kaur</b>, Vinayak Gupta"
