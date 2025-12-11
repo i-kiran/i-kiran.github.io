@@ -1,14 +1,14 @@
 news:
-  - title: "Serving as a reviewer for <a href=\"https://genai4streamingmedia-workshop.github.io/wsdm/index.html\">GenAI4SM </a> Generative AI for Streaming Media Workshop co-located with WSDM 2026."
-    date: "11/2025"
+  - title: "Reviewer for <a href=\"https://genai4streamingmedia-workshop.github.io/wsdm/index.html\">GenAI4SM </a> Generative AI for Streaming Media Workshop (WSDM 2026)."
+    date: "12/2025"
     
-  - title: "Serving as a reviewer for <a href=\"https://www.iaseai.org/\">IASEAI </a> International Association for Safe and Ethical AI Conference 2026."
+  - title: "Reviewer for for <a href=\"https://www.iaseai.org/\">IASEAI </a> International Association for Safe and Ethical AI Conference 2026."
     date: "11/2025"
 
-  - title: "<a href=\"https://arxiv.org/pdf/2501.04762?\">Paper on </a> Responsible Adaptation of LLMs for RecSys got accepted at ACM TORS'2025."
+  - title: "<a href=\"https://arxiv.org/pdf/2501.04762?\">Paper</a> on Responsible Adaptation of LLMs for RecSys got accepted at ACM TORS'2025."
     date: "10/2025"
     
-  - title: "<a href=\"https://arxiv.org/pdf/2510.03984\">Paper on </a> Dynamic Personalization got accepted at SIGIR-AP'2025."
+  - title: "<a href=\"https://arxiv.org/pdf/2510.03984\">Paper</a> on Dynamic Personalization got accepted at SIGIR-AP'2025."
     date: "10/2025"
     
   - title: "Project on Cold-Start Audiobook Recommendations using Cross-Domain Signals got accepted at Graph Workshop at AMLC'25 (Amazon ML Conference)."
