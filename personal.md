@@ -8,19 +8,13 @@ A space where I collect fragments of who I am beyond research.
 
 <style>
 /* Keep styling aligned with the rest of the site */
-body {
-  background-color: #ffffff;
-  color: #1a1a1a;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 1.7;
-}
 
 /* Headings */
 h1, h2, h3 {
-  color: #1a1a1a;
+  color: inherit;
+  font-weight: 500;
   margin-top: 2em;
   margin-bottom: 0.6em;
-  font-weight: 500;
 }
 
 h1 {
@@ -44,25 +38,27 @@ p {
 
 /* Poetry block — minimal, consistent */
 .poem {
-  font-size: 0.95em;
-  line-height: 1.75;
+  font-size: 1em;
+  line-height: 1.7;
   white-space: pre-line;
-  margin: 1.5em 0 1.2em 0;
+  margin: 1.5em 0;
   padding-left: 1em;
-  border-left: 2px solid #d8d8d8;
-  color: #2a2a2a;
+  border-left: 2px solid #e5e5e5;
+  color: inherit;
 }
+
 
 /* Context / reflection block */
 .context {
-  font-size: 0.95em;
+  font-size: 1em;
   line-height: 1.7;
-  color: #444;
-  background: #fafafa;
-  border-left: 2px solid #e0e0e0;
-  padding: 1em 1.2em;
+  color: inherit;
+  background: transparent;
+  border-left: 2px solid #e5e5e5;
+  padding-left: 1em;
   margin: 1.2em 0 2em 0;
 }
+
 </style>
 
 ## Poetry
