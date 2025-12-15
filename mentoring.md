@@ -38,13 +38,13 @@ permalink: /mentoring/
   <h4>Mentoring</h4>
 
   <p>
-    I am always eager to collaborate with curious and self-motivated students who are excited about pushing the boundaries of personalization and proactivity.Over the past few years, I’ve been fortunate to work with several talented students across research projects, independent studies, and classroom collaborations:
+    I am always eager to collaborate with curious and self-motivated students who are excited about pushing the boundaries of personalization and proactivity. Over the past few years, I’ve been fortunate to work with several talented students across research projects, independent studies, and classroom collaborations:
   </p>
   
   <div class="mentoring-card">
     <strong>David X. Lyu</strong>    
     <div class="mentoring-meta">  
-      University of Washington (Statis & Informatics)<br>      
+      University of Washington (Stats & Informatics)<br>      
       Project: Re-grounding Generative Proactivity with Epistemic and Behavioral Insights.  
     </div>
   </div>
@@ -92,7 +92,7 @@ permalink: /mentoring/
     <strong>Manya Chadha</strong>
     <div class="mentoring-meta">
       University of Washington (Informatics)<br>
-      Project: Responsible adaptation of large language models for recommendations<br>
+      Project: Responsible adaptation of large language models for recommendations.<br>
       Publication:
       <a href="https://dl.acm.org/doi/pdf/10.1145/3774778" target="_blank" rel="noopener noreferrer">
         ACM TORS 2025
