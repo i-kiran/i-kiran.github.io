@@ -76,7 +76,7 @@ permalink: /mentoring/
     <strong>Riya Kulkarni</strong>
     <div class="mentoring-meta">
       Redmond High School  
-      Project: 
+      Project: Evaluation benchmarks for proactive agents. 
     </div>
   </div>
 
@@ -84,7 +84,7 @@ permalink: /mentoring/
     <strong>Aditya Gupta</strong>
     <div class="mentoring-meta">
       Issaquah High School<br>
-      Project: Proactive agents and exploratory work in quantum computing
+      Project: Proactive agents and exploratory work in quantum computing. 
     </div>
   </div>
   
