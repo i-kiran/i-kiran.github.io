@@ -5,11 +5,12 @@ permalink: /personal/
 ---
 
 A space where I collect fragments of who I am beyond research.
+
 <style>
-/* Page base styling */
+/* Keep styling aligned with the rest of the site */
 body {
   background-color: #ffffff;
-  color: #000000;
+  color: #1a1a1a;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.7;
 }
@@ -19,19 +20,21 @@ h1, h2, h3 {
   color: #1a1a1a;
   margin-top: 2em;
   margin-bottom: 0.6em;
+  font-weight: 500;
 }
+
 h1 {
   font-size: 1.9em;
-  border-bottom: 2px solid #e2e2e2;
+  border-bottom: 1px solid #e2e2e2;
   padding-bottom: 6px;
 }
+
 h2 {
   font-size: 1.6em;
 }
+
 h3 {
   font-size: 1.25em;
-  font-weight: 600;
-  color: #333333;
 }
 
 /* Paragraphs */
@@ -39,56 +42,38 @@ p {
   margin-bottom: 1em;
 }
 
-/* Poem style */
-@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
-
+/* Poetry block — minimal, consistent */
 .poem {
-  font-family: 'Shadows Into Light', cursive;
-  color: #008080; /* greenish blue */
-  font-size: 0.9em;
-  line-height: 1.8;
+  font-size: 0.95em;
+  line-height: 1.75;
   white-space: pre-line;
-  margin: 1.5em 0;
+  margin: 1.5em 0 1.2em 0;
   padding-left: 1em;
-  border-left: 3px solid #cce6e6;
+  border-left: 2px solid #d8d8d8;
+  color: #2a2a2a;
 }
 
-/* Quote or reflection */
-blockquote {
-  background: #f5f7f8;
-  border-left: 4px solid #8fd3d3;
-  padding: 0.8em 1em;
-  font-style: italic;
+/* Context / reflection block */
+.context {
+  font-size: 0.95em;
+  line-height: 1.7;
   color: #444;
-  margin: 1.2em 0;
-}
-
-
-.small-blockquote {
-  font-size: 0.75em;         /* smaller text */
-  line-height: 1.6;
-  color: #555;               /* softer gray tone */
-  background: #fafafa;       /* light background */
-  border-left: 3px solid #cce6e6;
-  padding: 0.8em 1em;
-  font-style: italic;
-  margin: 1.5em 0;
-  border-radius: 5px;
+  background: #fafafa;
+  border-left: 2px solid #e0e0e0;
+  padding: 1em 1.2em;
+  margin: 1.2em 0 2em 0;
 }
 </style>
 
-## Poetry  
+## Poetry
 
-Since childhood, I have struggled with a quiet inability to express my emotions. But somewhere in that silence, I discovered writing, not only as a way to understand my own feelings but as a way to step into others. During my high school, I was also inspired by tons of poets and how beautifully they could share their state of mind through words.
+Since childhood, I have struggled with a quiet inability to express myself. Somewhere within that silence, I found writing—not as performance, but as understanding. Writing became a way to make sense of what I felt and, often, what others might be feeling too.
 
-People often call me an empath, and perhaps they are right. When I write, I do not just express what I feel; I inhabit what *someone else* might be feeling. Their grief, their hesitation, their quiet hopes, they live through my words before I even realize it. Writing, for me, is both a mirror and a refuge. It is how I translate emotion into something I can finally see.  
-
-Below, I share a few of my pieces, reflections that speak in the language I could not always find.  
-I am always open to thoughts, reflections, and feedback on how they make you feel.  
+Below are a few pieces shaped during important moments of my life.
 
 ---
 
-##### Losing Myself  
+### Losing Myself
 
 <div class="poem">
 This body doesn’t feel like mine anymore.  
@@ -118,6 +103,10 @@ but let me breathe freely
 once more.
 </div>
 
-<div class="small-blockquote">
-This poem was born during one of the heaviest transitioning times of my life, sometime in my master’s, when everything around me felt like a test of endurance. I was trying to do everything I thought I was supposed to do, pushing myself to excel, to prove I belonged, to become someone the world would recognize. Research was new to me then, and at first, it felt beautiful, the curiosity, the creation, the sense of building something meaningful. But slowly, I began to feel like I was losing the part of myself that made me feel. The more I tried to become what others expected, the more mechanical I became. Every decision felt like it belonged to someone else. The warmth I once found in small moments, empathy, connection, and even compassion, started to fade. People around me began to feel like machines, and so did I. That is when I wrote Losing Myself, not to lament the loss, but to name it. It was my way of saying: I see what is slipping away, and I want to find my way back to being human again.
+<div class="context">
+This poem was written during a period of intense transition in my master’s, when much of my life felt like a continuous test of endurance. I was trying to meet expectations, to excel, to become someone the world would recognize. Research was new then, and initially it felt expansive—driven by curiosity and creation.
+
+Over time, however, that sense of openness began to narrow. The more I tried to become what was expected of me, the more mechanical I felt. Decisions no longer felt like my own. The ease with which I once connected to people, to empathy, to small moments of warmth, started to fade.
+
+*Losing Myself* emerged not as a lament, but as recognition. It was my way of naming what felt like it was slipping away, and quietly insisting on the possibility of returning to it.
 </div>
