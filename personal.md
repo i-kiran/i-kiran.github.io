@@ -67,7 +67,7 @@ p {
 
 ## Poetry
 
-Since childhood, I have struggled with a quiet inability to express myself. Somewhere within that silence, I found writing—not as performance, but as understanding. Writing became a way to make sense of what I felt and, often, what others might be feeling too.
+Since childhood, I have struggled with a quiet inability to express myself. Somewhere within that silence, I found writing not as performance, but as understanding. Writing became a way to make sense of what I felt and, often, what others might be feeling too.
 
 Below are a few pieces shaped during important moments of my life.
 
@@ -104,9 +104,7 @@ once more.
 </div>
 
 <div class="context">
-This poem was written during a period of intense transition in my master’s, when much of my life felt like a continuous test of endurance. I was trying to meet expectations, to excel, to become someone the world would recognize. Research was new then, and initially it felt expansive—driven by curiosity and creation.
-
-Over time, however, that sense of openness began to narrow. The more I tried to become what was expected of me, the more mechanical I felt. Decisions no longer felt like my own. The ease with which I once connected to people, to empathy, to small moments of warmth, started to fade.
+This poem was written during a period of intense transition in my master’s, when much of my life felt like a continuous test of endurance. I was trying to meet expectations, to excel, to become someone the world would recognize. Over time, however, that sense of openness began to narrow. The more I tried to become what was expected of me, the more mechanical I felt. Decisions no longer felt like my own. The ease with which I once connected to people, to empathy, to small moments of warmth, started to fade.
 
 *Losing Myself* emerged not as a lament, but as recognition. It was my way of naming what felt like it was slipping away, and quietly insisting on the possibility of returning to it.
 </div>
