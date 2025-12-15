@@ -11,7 +11,7 @@ A space where I collect fragments of who I am beyond research.
 
 /* Headings */
 h1, h2, h3 {
-  color: inherit;
+  color: #444;
   font-weight: 500;
   margin-top: 2em;
   margin-bottom: 0.6em;
