@@ -41,53 +41,45 @@ permalink: /mentoring/
     I am always eager to collaborate with curious and self-motivated students who are excited about pushing the boundaries of personalization and proactivity.Over the past few years, I’ve been fortunate to work with several talented students across research projects, independent studies, and classroom collaborations:
   </p>
   
-<div class="mentoring-card">
-  <strong>Akshith Saravanan</strong>
-  <div class="mentoring-meta">
-    University of Washington [CSE]  
-    Project: Information flow and attack surfaces in complex agentic frameworks
+  <div class="mentoring-card">
+    <strong>David X. Lyu</strong>    
+    <div class="mentoring-meta">  
+      University of Washington (Statis & Informatics)<br>      
+      Project: Re-grounding Generative Proactivity with Epistemic and Behavioral Insights.  
+    </div>
   </div>
-</div>
+  
+  <div class="mentoring-card">
+    <strong>Akshith Saravanan</strong>   
+    <div class="mentoring-meta">  
+      University of Washington (CSE)<br>  
+      Project: Information flow and attack surfaces in complex agentic frameworks.  
+    </div>
+  </div>
 
-<div class="mentoring-card">
-  <strong>David X. Lyu</strong>
-  <div class="mentoring-meta">
-    University of Washington [Statistics & Informatics]  
-    Project: Proactive agents
+  <div class="mentoring-card">  
+    <strong>Kevin Nguyen</strong>  
+    <div class="mentoring-meta">  
+      University of Washington (CSE)<br>  
+      Project: Information flow and attack surfaces in complex agentic frameworks.   
+    </div>
   </div>
-</div>
-
-<div class="mentoring-card">
-  <strong>Kevin Nguyen</strong>
-  <div class="mentoring-meta">
-    University of Washington [CSE]  
-    Project: Information flow and attack surfaces in complex agentic frameworks
-  </div>
-</div>
 
   <div class="mentoring-card">
     <strong>Rachel Chalissery</strong>
     <div class="mentoring-meta">
-      University of Washington<br>
-      Project: Personalized and proactive agentic systems
+      University of Washington (Informatics) <br>
+      Project: Evaluation benchmarks for proactive agents. 
     </div>
   </div>
   <div class="mentoring-card">
     <strong>Riya Kulkarni</strong>
     <div class="mentoring-meta">
       Redmond High School  
-      Project: Evaluation benchmarks for proactive agents
+      Project: 
     </div>
   </div>
-  
-  <div class="mentoring-card">
-    <strong>Manya Chadha</strong>
-    <div class="mentoring-meta">
-      University of Washington<br>
-      Project: Responsible adaptation of large language models<br>
-      <em>Now a Data Scientist at Kaizen Analytics</em>
-    </div>
-  </div>
+
   <div class="mentoring-card">
     <strong>Aditya Gupta</strong>
     <div class="mentoring-meta">
@@ -95,6 +87,21 @@ permalink: /mentoring/
       Project: Proactive agents and exploratory work in quantum computing
     </div>
   </div>
+  
+  <div class="mentoring-card">
+    <strong>Manya Chadha</strong>
+    <div class="mentoring-meta">
+      University of Washington (Informatics)<br>
+      Project: Responsible adaptation of large language models for recommendations<br>
+      Publication:
+      <a href="https://dl.acm.org/doi/pdf/10.1145/3774778" target="_blank" rel="noopener noreferrer">
+        ACM TORS 2025
+      </a><br>
+      <em>Now a Data Scientist at Kaizen Analytics</em>
+    </div>
+  </div>
+
+
 
   <p>
     Beyond one-on-one research collaboration, I serve as a <strong>Predoctoral Lecturer</strong> for
