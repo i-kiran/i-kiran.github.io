@@ -17,7 +17,7 @@ papers:
 
   - title: "Cold-Start Audiobook Recommendation via Cross-Domain Sub-Tower Fusion"
     authors: "<b>Kirandeep Kaur</b>, Amit Goyal"
-    venue: "GenAI4SSM Workshop at WSDM 2026<br>; Graph Workshop at AMLC'2025 (Amazon Machine Learning Conference)"
+    venue: "GenAI4SSM Workshop at WSDM 2026;<br> Graph Workshop at AMLC'2025 (Amazon Machine Learning Conference)"
     selected: y
 
 
