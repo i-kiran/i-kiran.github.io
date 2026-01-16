@@ -9,6 +9,7 @@ papers:
     
   - title: "The PROPER Approach to Proactivity: Benchmarking and Advancing Knowledge Gap Navigation"
     authors: "<b>Kirandeep Kaur</b>,Vinayak Gupta, Aditya Gupta, Chirag Shah"
+    paper_pdf: "https://arxiv.org/pdf/2601.09926"
     selected: n 
 
   - title: "Analyzing Information Flow and Attack Surfaces in Complex Agentic Frameworks"
