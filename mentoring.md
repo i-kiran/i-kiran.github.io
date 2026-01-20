@@ -72,13 +72,6 @@ permalink: /mentoring/
       Project: Evaluation benchmarks for proactive agents. 
     </div>
   </div>
-  <div class="mentoring-card">
-    <strong>Riya Kulkarni</strong>
-    <div class="mentoring-meta">
-      Redmond High School<br>  
-      Project: Evaluation benchmarks for proactive agents. 
-    </div>
-  </div>
 
   <div class="mentoring-card">
     <strong>Aditya Gupta</strong>
