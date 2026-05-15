@@ -7,6 +7,16 @@ permalink: /resume/
 
 <div class="docs-section" id="resume">
   <h4>Vitæ</h4>
+
+  <div class="resume-highlight">
+    <p>
+      You can view or download my latest CV here:
+      <a href="{{ '/assets/files/Kirandeep_Kaur_CV.pdf' | relative_url }}" target="_blank">
+        <b>Kirandeep Kaur — Curriculum Vitae</b>
+      </a>
+    </p>
+  </div>
+
   <!-- The Timeline -->
   <ul class="timeline">
     {% for exp in site.data.experience.experiences %}
