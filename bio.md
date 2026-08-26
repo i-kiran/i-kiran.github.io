@@ -7,11 +7,8 @@ permalink: /bio/
 <div class="docs-section" id="bio">
   <h4>Bio</h4>
   <p>
-  Hi! I am a second-year PhD student at the <a href="https://www.cs.washington.edu/" target="_blank">Paul G. Allen School of Computer Science, University of Washington.</a> I am associated with 
-  <a href="https://infoseeking.org/people.php" target="_blank">Infoseeking Lab</a>, <a href="https://www.raise.uw.edu/" target="_blank">RAISE</a> and advised by <a href="https://chiragshah.org/" target="_blank">Chirag Shah</a>.
-  My research focuses on designing proactive and personalized agentic frameworks with a critical focus on responsible and privacy-preserving information flow across interconnected modules. 
-  I am particularly interested in the intersection of generative AI and philosophy, exploring how agents can navigate the unknown unknowns dilemma. My work aims to develop proactive AI agents 
-  capable of proactively identifying both opportunities and risks in uncertain environments. I'm grateful to have my research supported by the Microsoft Endowed Fellowship.
+  Hi! I am a PhD student at the <a href="https://www.cs.washington.edu/" target="_blank">Paul G. Allen School of Computer Science, University of Washington.</a> 
+  My research lies at the intersection of Machine Learning (ML) and philosophy of ignorance with applications to education and healthcare. I am particularly interested in evaluating how LLMs behave under epistemic incompleteness and designing proactive agents which can augment human knowledge by computationally modeling experience and expertise. I'm grateful to have my research supported by the Community-Centered Computing Initiative’s (CECI) Grant, Microsoft Endowed Fellowship.
   </p>
 
   <p>
