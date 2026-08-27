@@ -10,9 +10,9 @@ permalink: /resume/
 
   <div class="resume-highlight">
     <p>
-      You can view or download my latest CV here:
-      <a href="{{ '/assets/files/Kirandeep_Kaur_CV.pdf' | relative_url }}" target="_blank">
-        <b>Kirandeep Kaur — Curriculum Vitae</b>
+      For full CV visit:
+      <a href="{{ '/assets/files/Kirandeep_Kaur_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+        <b>Kirandeep Kaur — Curriculum Vitae (PDF)</b>
       </a>
     </p>
   </div>
