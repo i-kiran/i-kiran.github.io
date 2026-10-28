@@ -7,11 +7,7 @@ permalink: /bio/
 <div class="docs-section" id="bio">
   <h4>Bio</h4>
   <p>
-  Hi! I am a PhD student at the <a href="https://www.cs.washington.edu/" target="_blank">Paul G. Allen School of Computer Science &amp; Engineering at the University of Washington</a>. My research broadly focuses on human–AI interaction in settings that require expertise and involve imbalances in knowledge. I design proactive agents that augment human knowledge by computationally modeling judgment and expertise.
-  </p>
-
-  <p>
-  I am grateful for research support from the Community-Centered Computing Initiative (CECI) Grant and the Microsoft Endowed Fellowship.
+  Hi! I am a PhD student at the <a href="https://www.cs.washington.edu/" target="_blank">Paul G. Allen School of Computer Science &amp; Engineering at the University of Washington</a>. My research broadly focuses on human–AI interaction in settings that require expertise and involve imbalances in knowledge. I design proactive agents that augment human knowledge by computationally modeling judgment and expertise. I am grateful for research support from the Community-Centered Computing Initiative (CECI) Grant and the Microsoft Endowed Fellowship.
   </p>
 
   <p>
