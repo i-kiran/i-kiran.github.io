@@ -96,6 +96,7 @@ async function start() {
   const draft = readDraft();
   draft.page = Math.max(0, Math.min(draft.page, pages.length));
   const position = document.querySelector("#position");
+  document.querySelector("#study").replaceChildren();
   const engine = initJsPsych({ display_element: "study", on_finish: finish });
   let view;
 
