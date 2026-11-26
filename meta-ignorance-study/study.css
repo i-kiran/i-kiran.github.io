@@ -18,6 +18,9 @@ button, .button { cursor: pointer; }
 .mast-inner, .page, .loading, noscript { max-width: var(--measure); margin: auto; }
 .mast-inner { padding: 1rem 1.5rem; display: flex; justify-content: space-between; gap: 1rem; align-items: center; font-size: .92rem; font-weight: 650; }
 #position { color: var(--muted); font-size: .83rem; font-weight: 450; }
+.mast-inner { flex-wrap: wrap; }
+#scenario-nav { font-size: .85rem; font-weight: 500; }
+#destination { font: inherit; color: var(--ink); background: white; border: 1px solid #999; border-radius: .25rem; padding: .4rem; }
 .page, .loading { padding: clamp(2rem, 5vw, 4rem) 1.5rem 3rem; }
 h1, h2, p, dl, blockquote, fieldset { margin: 0; }
 h1 { font: normal clamp(2.15rem, 5vw, 3.2rem)/1.12 var(--serif); letter-spacing: -.045em; margin-bottom: 1.1rem; }
@@ -68,9 +71,6 @@ legend { padding: 0; font-size: 1rem; font-weight: 700; }
 .choice input:checked + span { background: #242424; color: white; border-color: #242424; }
 .choice input:focus-visible + span { outline: 3px solid #555; outline-offset: 2px; }
 .ticks { display: flex; justify-content: space-between; gap: .7rem; color: var(--muted); font-size: .73rem; margin-top: .25rem; }
-.invalid { background: #f3f3f3; outline: 1px dashed #555; outline-offset: .2rem; }
-.status { font-weight: 600; margin-top: 1rem; }
-.status:empty { margin: 0; }
 .export { display: flex; flex-wrap: wrap; gap: .65rem; margin: 1.4rem 0 .75rem; }
 .steps { margin: 1rem 0; padding-left: 1.3rem; }
 .steps li + li { margin-top: .4rem; }

@@ -7,12 +7,14 @@
   <meta name="robots" content="noindex,nofollow">
   <meta name="referrer" content="no-referrer">
   <title>Meta-ignorance study</title>
-  <link rel="stylesheet" href="./study.css">
+  <link rel="stylesheet" href="./study.css?v=1.1">
   <script defer src="./vendor/jspsych-8.2.2.min.js"></script>
-  <script defer src="./study.js"></script>
+  <script defer src="./study.js?v=1.1"></script>
 </head>
 <body>
-  <header class="mast"><div class="mast-inner"><span>Meta-ignorance study</span><span id="position"></span></div></header>
+  <header class="mast"><div class="mast-inner"><span>Meta-ignorance study</span><span id="position"></span>
+    <label id="scenario-nav" hidden>Go to <select id="destination" aria-label="Go to scenario"></select></label>
+  </div></header>
   <main id="study"><p class="loading">Loading the study…</p></main>
   <noscript>This study requires JavaScript. Enable it in your browser and refresh the page.</noscript>
 </body>
